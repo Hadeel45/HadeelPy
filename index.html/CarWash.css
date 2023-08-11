@@ -1,0 +1,203 @@
+body{
+  background-color:rgb(237, 233, 198);
+}
+
+.navigation{
+  font-size: x-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: antiquewhite;
+  height: 90px;
+  width: 290px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; 
+
+}
+
+ul{
+ list-style-type: none;
+}
+
+.homeSelection{
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.ParagraphHome{
+  color: rgb(111, 111, 111);
+  text-align: center;
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.slogan{
+  color: rgb(192, 192, 192);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; 
+  font-style: italic;
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.view{
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
+  color: gray;
+  text-align: center;
+}
+
+.goal{
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
+  color: gray;
+  text-align: center;
+
+}
+
+.firstImg{
+  margin-left: 130px;
+}
+
+.washStyles{
+
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:25px;
+  color: rgb(187, 174, 174);
+  text-align: center;
+}
+
+.normalBreifParagraph{
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:20px;
+  color: rgb(187, 174, 174);
+  text-align: center;
+}
+
+
+.normalButton{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border-radius: 50px;
+	font-size: 1.5em;
+	display: inline-block;
+  margin-left: 90px;
+  margin-left: 570px; 
+
+}
+
+.button{
+  text-decoration: none;
+}
+
+.vipBreifParagraph{
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:20px;
+  color: rgb(187, 174, 174);
+  text-align: center;
+}
+
+.vipButton{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border-radius: 50px;
+	font-size: 1.5em;
+	display: inline-block;
+  margin-left: 90px;
+  margin-left: 570px; 
+}
+
+.allBreifParagraph{
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:20px;
+  color: rgb(187, 174, 174);
+  text-align: center;
+}
+
+.allButton{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border-radius: 50px;
+	font-size: 1.5em;
+	display: inline-block;
+  margin-left: 90px;
+  margin-left: 570px; 
+}
+
+
+.services{
+  font-weight: bold;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 400px;
+  color: rgb(187, 174, 174);
+  text-align: center;
+}
+
+
+.home:hover{
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.services:hover{
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.notes:hover{
+  font-weight: bolder;
+  cursor: pointer;
+}
+.notesAndC{
+
+  font-weight: bolder;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:large;
+  color: rgb(221, 15, 15);
+  text-align: center;
+
+}
+
+input{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size:medium;
+  color: rgb(71, 71, 71);
+  background-color: khaki;
+  border-radius: 50px;
+  margin-left: 660px;
+
+}
+
+label{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size:larger;
+  color: rgb(71, 71, 71);
+  text-align: center;
+  border-radius: 50px;
+  margin-left: 660px;  
+}
+
+textarea{
+  margin-left: 660px; 
+}
+
+.noteButton{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border-radius: 50px;
+	font-size: 1em;
+	display: inline-block;
+  margin-left: 80px;
+  margin-left: 550px; 
+}
+
+footer{
+
+  margin-left: 20px;
+  margin-right: 30px; 
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
